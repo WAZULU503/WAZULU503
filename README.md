@@ -27,7 +27,7 @@ pr1mal-vault → control layer
 CLI tool for debugging and managing local development environments.
 
 ### wazulu-nexus
-Deterministic execution engine that converts tasks into DAG pipelines.
+Deterministic execution engine for structured task pipelines (DAG-based).
 
 ### pr1mal-vault
 Secure local CLI vault for storing secrets using modern cryptography.
