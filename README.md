@@ -10,16 +10,24 @@ I build simple, predictable systems focused on execution, debugging, and control
 
 ---
 
+## Stack
+
+jdt → development tooling  
+wazulu-nexus → execution engine  
+pr1mal-vault → control layer  
+
+---
+
 ## Projects
 
 ### jdt
-CLI tool for inspecting and debugging local development environments.
+CLI tool for debugging and managing local development environments.
 
 ### wazulu-nexus
-Deterministic execution engine using DAG pipelines.
+Deterministic execution engine that converts tasks into DAG pipelines.
 
 ### pr1mal-vault
-Secure local storage for secrets using modern cryptography.
+Secure local CLI vault for storing secrets using modern cryptography.
 
 ---
 
