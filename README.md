@@ -8,6 +8,9 @@ Developer tooling
 
 I build simple, predictable systems focused on execution, debugging, and control.
 
+Used in my daily development workflow for debugging, execution, and local control.
+
+
 ---
 
 ## Stack
